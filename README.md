@@ -1,16 +1,7 @@
 # whatsapp_ui
 
-A new Flutter project.
+This is a Responsive Whatsapp UI Clone but it's simple. 
 
-## Getting Started
+Take a look at this: https://663af26c6cfa67a02c6ad299--lucent-speculoos-82c8ba.netlify.app/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![fsOLnC.png](https://resmim.net/cdn/2024/05/08/fsOLnC.png)](https://resmim.net/i/fsOLnC)
